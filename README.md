@@ -1,4 +1,4 @@
-# A mesh-free hybrid Chebyshev-Tucker tensor format with applications to multi-particle modelling
+# A hybrid Chebyshev-Tucker tensor format for approximation of multivariate functions
 
 [![][doi-badge]][doi-link]
 [![][arxiv-badge]][arxiv-link]
@@ -15,8 +15,8 @@
 
 This repository contains the code to reproduce the results of the following paper:
 
-Peter Benner, Boris N. Khoromskij, Venera Khoromskaia and Bonan Sun  
-*A mesh-free hybrid Chebyshev-Tucker tensor format with applications to multi-particle modelling*  
+Peter Benner, Boris N. Khoromskij, Venera Khoromskaia and Bonan Sun<br>
+*A hybrid Chebyshev-Tucker tensor format for approximation of multivariate functions*<br>
 arXiv prerint, [arXiv:2503.01696]([arxiv-link]), 2025, https://doi.org/10.48550/arXiv.2503.01696
 
 ## Requirements
