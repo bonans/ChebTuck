@@ -6,7 +6,7 @@ saveresults = true;
 % generate 9 pictures (Fig 1 right, Fig. 5 - 7)
 biomol_plots(saveresults)
 
-% generate 2 pictures (Fig. 8) and 1 table (Tab. 4)
+% generate 2 pictures (Fig. 8) and 1 table (Tab. 4 - 5)
 biomol_scales(saveresults)
 
 % generate 2 tables (Tab. 3)
